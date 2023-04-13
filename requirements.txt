@@ -1,0 +1,5 @@
+protobuf==4.21.7
+python-dotenv==0.21.0
+requests==2.25.1
+google-cloud-bigquery==3.3.3
+google-auth==2.12.0
